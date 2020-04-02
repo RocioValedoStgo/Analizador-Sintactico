@@ -1,0 +1,12 @@
+javac --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml *.java
+
+java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml Principal
+
+
+** CADENAS VALIDAS **
+function primary() { displayData("Bienvenido"); }
+function primary() { var int contador = takeData(int); }
+
+
+** CADENA NO VALIDA **
+displayData ("Edad" + edad)
