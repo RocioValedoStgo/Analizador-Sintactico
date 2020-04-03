@@ -62,11 +62,6 @@
                   <Font name="Century Gothic" size="15.0" />
                </font>
             </Button>
-            <Button fx:id="btnLimpiar" layoutX="423.0" layoutY="50.0" mnemonicParsing="false" onMouseClicked="#onClickLimpiar" prefHeight="26.0" prefWidth="81.0" style="-fx-background-color: BLACK;" text="Limpiar" textFill="WHITE">
-               <font>
-                  <Font name="Century Gothic" size="15.0" />
-               </font>
-            </Button>
             <Button fx:id="btnSalir" layoutX="595.0" layoutY="50.0" mnemonicParsing="false" onMouseClicked="#onClickSalir" prefHeight="29.0" prefWidth="81.0" style="-fx-background-color: BLACK;" text="Salir" textFill="WHITE">
                <font>
                   <Font name="Century Gothic" size="15.0" />
